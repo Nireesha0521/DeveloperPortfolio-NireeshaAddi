@@ -1,45 +1,42 @@
-# 🌐 Nireesha Addi - Developer Portfolio
+# 🌐 Nireesha Addi – Developer Portfolio
 
-Welcome to my personal developer portfolio.  
-This project showcases who I am, the projects I've built, skills I've gained, and certifications I've earned.
-
----
-
-## 📁 Sections
-
-- *Welcome / About Me*
-- *Projects* with live demo and GitHub links
-- *Skills* categorized by development areas
-- *Certifications*
-- *Contact Info* and social links
+## 🔍 Overview
+A fully responsive **personal portfolio website** built using semantic **HTML5** and **modern CSS3**.  
+This website represents my journey as a **Java Backend Developer**, showcasing my projects, skills, and certifications in a structured, user-friendly layout.
 
 ---
 
-## 🔧 Technologies Used
-
-- *HTML*
-- *CSS*
-
-No JavaScript or external libraries are used — this portfolio is fully built with semantic HTML and modern CSS.
-
----
-
-## 🌟 Features
-
-- Responsive design  
-- Clean UI/UX  
-- Interactive project showcase with smooth transitions  
-- External links styled as interactive buttons  
-- Section-based layout with animation effects (CSS-only)
+## ✨ Features
+- 🎯 **About Me Section:** Highlights background, passion, and focus areas.  
+- 💻 **Projects Showcase:** Each project includes live demo and GitHub link.  
+- 🧠 **Skills Section:** Categorized by technologies and development areas.  
+- 🏅 **Certifications:** Displays completed courses and recognitions.  
+- 📬 **Contact Section:** Social and email links styled as interactive buttons.  
+- 💅 **Design:** Responsive layout, clean typography, and CSS-only animations for smooth transitions.
 
 ---
 
-## 📌 Live Preview
-
-🔗 https://nireesha0521.github.io/freeCodeCamp-PortfolioProject/
-
-## 📌 GitHub Code
-
-🔗 https://github.com/Nireesha0521/freeCodeCamp-PortfolioProject.git
+## 💻 Tech Stack
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Semantic content structure |
+| **CSS3** | Styling, responsiveness, and transitions |
+| **No JavaScript** | Lightweight and performance-focused design |
 
 ---
+
+## 🚀 Live Demo
+🔗 [Portfolio Website](https://nireesha0521.github.io/freeCodeCamp-PortfolioProject/)
+
+---
+
+## 🧩 Project Type
+**Personal Project / Developer Portfolio**  
+**Certification:** freeCodeCamp – Responsive Web Design  
+
+---
+
+## 📬 Contact
+**Developer:** Nireesha Addi  
+📧 Email: nireeshaaddi0216@gmail.com  
+🌐 GitHub: [github.com/Nireesha0521](https://github.com/Nireesha0521)
