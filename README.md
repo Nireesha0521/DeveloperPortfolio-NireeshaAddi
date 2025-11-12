@@ -26,7 +26,7 @@ This website represents my journey as a **Java Backend Developer**, showcasing m
 ---
 
 ## 🚀 Live Demo
-🔗 [Portfolio Website](https://nireesha0521.github.io/freeCodeCamp-PortfolioProject/)
+🔗 [Portfolio Website](https://nireesha0521.github.io/DeveloperPortfolio-NireeshaAddi/)
 
 ---
 
